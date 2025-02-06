@@ -1,3 +1,3 @@
 # ABC-Music-Notation-Player
 
-zatial na nom len pracujem
+zatiaľ na nom len pracujem
