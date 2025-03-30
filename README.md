@@ -1,3 +1,3 @@
 # ABC-Music-Notation-Player
 
-zatiaľ na tom len pracujem fgg
+zatiaľ na tom len pracujem f
